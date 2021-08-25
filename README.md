@@ -1,46 +1,29 @@
+# README Generator
 
-  # Test
+  ## README Generator Description
 
-
-  ## Application Description
-
-
-  Test
-
+  test
 
   ## Table of Contents
 
+  * How to Use README Generator
+  * How to Install README Generator
+  * How to Report README Generator Issues
+  * How to Contribute to README Generator
 
-  * How to Use Application
+  ## How to Use README Generator
 
-  * How to Install Application
+  test
 
-  * How to Report Application Issues
+  ## How to Install README Generator
 
-  * How to Contribute to Application
+  test
 
+  ## How to Report README Generator Issues
 
-  ## How to Use Application
+  test
 
+  ## How to Contribute to README Generator
 
-  Test
-
-
-  ## How to Install Application
-
-
-  Test
-
-
-  ## How to Report Application Issues
-
-
-  Test
-
-
-  ## How to Contribute to Application
-
-
-  Test
-
+  test
 

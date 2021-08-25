@@ -143,7 +143,7 @@ function generateMarkdown(data) {
   ## ${data.appTitle} Testing Instructions\n
   ${data.appTests}\n
   ## ${data.appTitle} Questions\n
-  For any questions, reach out to me at my [GitHub](https://github.com/${data.appQuestions})\n
+  For any questions, reach out to me at my [GitHub](https://github.com/${data.appGithub}) or at my [email](mailto:${data.appEmail}).\n
   ## ${data.appTitle} License Information\n
   ${renderLicenseSection(data.license)}
 `;

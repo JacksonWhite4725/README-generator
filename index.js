@@ -31,6 +31,22 @@ const questions = [
         type: 'input',
         name: 'appContributions',
         message: 'How does a user make contributions to the app?\n',
+    },
+    {
+        type: 'input',
+        name: 'appTests',
+        message: 'What is some information about testing the user should be aware about?\n',
+    },
+    {
+        type: 'input',
+        name: 'appQuestions',
+        message: 'What is your GitHub username?\n',
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'Choose your application\'s license:',
+        choices: ['Apache 2.0', 'Boost 1.0', 'BSD 3-Clause', 'EPL 1.0', 'GPLv3', 'IPL 1.0', 'ISC', 'MIT', 'MPL 2.0', 'Perl'],
     }
 ];
 
@@ -40,14 +56,3 @@ inquirer.prompt(questions).then((answers) => {
     fs.writeFile('README.md', readMe, (err) => 
         err ? console.error(err) : console.log('Commit logged!'));
 });
-/*
-function writeToFile(fileName, data) {
-
-}
-
-// TODO: Create a function to initialize app
-function init() {}
-
-// Function call to initialize app
-init();
-*/

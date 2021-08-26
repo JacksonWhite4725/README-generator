@@ -125,25 +125,32 @@ function generateMarkdown(data) {
   ## ${data.appTitle} Description\n
   ${data.appPurpose}\n
   ## Table of Contents\n
-  * Using ${data.appTitle}
-  * Installing ${data.appTitle}
-  * Reporting ${data.appTitle} Issues
-  * Contributeing ${data.appTitle}
-  * ${data.appTitle} Testing Information
-  * ${data.appTitle} Questions
-  * ${data.appTitle} License Information\n
+  - [Using ${data.appTitle}](#using-${data.appTitle})\n
+  - [Installing ${data.appTitle}](#installing-${data.appTitle})\n
+  - [Reporting ${data.appTitle} Issues](#reporting-${data.appTitle})\n
+  - [Contributing to ${data.appTitle}](#contributing-to-${data.appTitle})\n
+  - [${data.appTitle} Testing Information](#${data.appTitle}-testing-information)\n
+  - [${data.appTitle} Questions](#${data.appTitle}-questions)\n
+  - [${data.appTitle} License Information](#${data.appTitle}-license-information)\n
+  <a name='using-${data.appTitle}'></a>
   ## Using ${data.appTitle}\n
   ${data.appUsage}\n
+  <a name='installing-${data.appTitle}'></a>
   ## Installing ${data.appTitle}\n
   ${data.appInstall}\n
+  <a name='reporting-${data.appTitle}'></a>
   ## Reporting ${data.appTitle} Issues\n
   ${data.appIssues}\n
+  <a name='contributing-to-${data.appTitle}'></a>
   ## Contributing to ${data.appTitle}\n
   ${data.appContributions}\n
+  <a name='${data.appTitle}-testing-information'></a>
   ## ${data.appTitle} Testing Instructions\n
   ${data.appTests}\n
+  <a name='${data.appTitle}-questions'></a>
   ## ${data.appTitle} Questions\n
   For any questions, reach out to me at my [GitHub](https://github.com/${data.appGithub}) or at my [email](mailto:${data.appEmail}).\n
+  <a name='${data.appTitle}-license-information'></a>
   ## ${data.appTitle} License Information\n
   ${renderLicenseSection(data.license)}
 `;

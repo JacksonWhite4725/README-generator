@@ -1,58 +1,58 @@
 
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-  # test
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # README Generator
 
-  ## test Description
+  ## ReadMe Generator Description
 
-  test
+  This README Generator is used to assist developers in creating professional and high-quality README's. By taking user input, it generates a functional and stylish README that can be used for any project!
 
   ## Table of Contents
 
-  - [Using test](#using-test)
+  - [Using README Generator](#using-application)
 
-  - [Installing test](#installing-test)
+  - [Installing README Generator](#installing-application)
 
-  - [Reporting test Issues](#reporting-test)
+  - [Reporting README Generator Issues](#reporting-application)
 
-  - [Contributing to test](#contributing-to-test)
+  - [Contributing to README Generator](#contributing-to-application)
 
-  - [test Testing Information](#test-testing-information)
+  - [README Generator Testing Information](#application-testing-information)
 
-  - [test Questions](#test-questions)
+  - [README Generator Questions](#application-questions)
 
-  - [test License Information](#test-license-information)
+  - [README Generator License Information](#application-license-information)
 
-  <a name='using-test'></a>
-  ## Using test
+  <a name='using-application'></a>
+  ## Using application
 
-  test
+  To use this application, refer to this video: https://drive.google.com/file/d/12d9YVMtjR2jo_xE9FGtH_VFVGr-aVBXK/view
 
-  <a name='installing-test'></a>
-  ## Installing test
+  <a name='installing-application'></a>
+  ## Installing application
 
-  test
+  To install this application, either clone this repository or download directly through a zip file. Ensure you're running it on VS-Code. Make sure to use npm to install all necessary packages (inquirer and fs).
 
-  <a name='reporting-test'></a>
-  ## Reporting test Issues
+  <a name='reporting-application'></a>
+  ## Reporting application Issues
 
-  test
+  To report any issues, feel free to reach out to me. My contact information is under the Questions tab.
 
-  <a name='contributing-to-test'></a>
-  ## Contributing to test
+  <a name='contributing-to-application'></a>
+  ## Contributing to application
 
-  test
+  Since this is a homework, there is no outside contributions accepted.
 
-  <a name='test-testing-information'></a>
-  ## test Testing Instructions
+  <a name='application-testing-information'></a>
+  ## application Testing Instructions
 
-  test
+  This homework was generated prior to the advent of testing at my bootcamp, therefore there's no testing used.
 
-  <a name='test-questions'></a>
-  ## test Questions
+  <a name='application-questions'></a>
+  ## application Questions
 
-  For any questions, reach out to me at my [GitHub](https://github.com/test) or at my [email](mailto:test).
+  For any questions, reach out to me at my [GitHub](https://github.com/jacksonwhite4725) or at my [email](mailto:jwhite12271999@gmail.com).
 
-  <a name='test-license-information'></a>
-  ## test License Information
+  <a name='application-license-information'></a>
+  ## application License Information
 
-  Licensed under the Apache License, Version 2.0 (the "License") you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
